@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ProductList>
+    <product>
+        <name>Cuaderno</name>
+        <description>cuadricula</description>
+        <quantity>12</quantity>
+        <price>5.6</price>
+    </product>
+    <product>
+        <name>Pluma</name>
+        <description>azul</description>
+        <quantity>50</quantity>
+        <price>3.8</price>
+    </product>
+    <product>
+        <name>Lapiz</name>
+        <description>granito</description>
+        <quantity>80</quantity>
+        <price>4.1</price>
+    </product>
+    <product>
+        <name>Marcador</name>
+        <description>amarillo</description>
+        <quantity>30</quantity>
+        <price>10.7</price>
+    </product>
+</ProductList>
